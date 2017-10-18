@@ -1,0 +1,13 @@
+ img{
+      height: 300px;
+     }
+      .card:hover{
+        box-shadow: 2px 5px 7px #666;
+
+      }
+      .card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
+   
